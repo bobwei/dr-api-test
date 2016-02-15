@@ -3,7 +3,6 @@
 Using [npm](https://www.npmjs.com/):
 
     $ npm install
-    $ npm install -g babel-node
 
 
 Create your .env file
